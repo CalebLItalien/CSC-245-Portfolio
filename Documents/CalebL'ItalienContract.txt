@@ -1,0 +1,31 @@
+Caleb L'Italien
+CSC-245 Contract
+
+To earn a C I will need to :
+
+-   Meet 50% of my KWL objectives
+-   complete and submit all game programming assignments
+-   complete and submit (1/4) of all in-class assignments
+-   complete a final game project that demonstrates at least half of the concepts I've learned in the class
+- be attentive and engaged in class
+- helpful to my fellow students
+
+To earn a B, I will additionally:
+
+-   Meet 70% of my KWL objectives
+-   complete and submit all game programming assignments
+-   submit my class notes at least once a week
+-   complete at least one challenge for each programming assignment
+-   complete a final game project that demonstrates at least three quarters of the concepts I've learned in the class
+- be attentive and engaged in class
+- helpful to my fellow students
+
+To earn an A I will additionally:
+
+-   Meet 90% of my KWL objectives
+-   submit clearly documented revisions of all programming assignments
+-  submit my class notes every time I take them
+-   complete as many challenges on each assignment as I am able to
+-   complete a final game project that demonstrates all of the concepts I've learned in the class
+- be attentive and engaged in class
+- helpful to my fellow students
